@@ -10,8 +10,7 @@
 
 ## Решение 
 
-Запускаем виртуалку `vagrant up`
-И подключаемся `vagrant ssh`
+Запускаем виртуалку `vagrant up` и подключаемся `vagrant ssh`
 
 #### Список активных таймеров
 `systemctl list-timers | grep monitor`
